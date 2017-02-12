@@ -1,8 +1,7 @@
-# Sentiment Aanalysis on Tripadvisor with Python & NLTK
-Export tripadvisor hotel data to mongodb with scrapy, 
-remove stopwords, tokenize reviews with nltk and segmenting reviews for a sentiment analysis process and dashboard.
+# Sentiment Analysis on Tripadvisor with Python & NLTK
+Export tripadvisor hotel data with scrapy, remove stopwords, tokenize with nltk and deploy algorithm. After this steps analyzed data will be stored into mongodb database. Then, you can see the result of analyzed tripadvisor reviews on our sentiment dashboard.
 
-In this project we have the focus on german (Deutsch) language. We want to analyse the sentimentals of hotel reviews in Germany.<br>
+In this project we have the focus on german (Deutsch) language. We wanted to analyse the sentiments, emotions and feelings of reviewers about german hotels.<br>
 
 At first you can get your needed raw data with python and scrapy framework from tripadvisor with this repository: <br>
 https://github.com/monkeylearn/hotel-review-analysis
